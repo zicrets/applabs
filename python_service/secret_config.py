@@ -1,0 +1,5 @@
+# Synthetic keys for scanner testing (not real)
+AWS_ACCESS_KEY_ID = "AKIAFAKEIDEXAMPL3K3Y9"
+AWS_SECRET_ACCESS_KEY = "s3cr3tFakeAccessKeyDontUseInProd1234567890"
+SERVICE_API_KEY = "svc_live_FAKE_SERVICE_API_KEY_1234567890"
+GITHUB_PAT = "ghp_FAKEforScanner1234567890abcdEFG"
